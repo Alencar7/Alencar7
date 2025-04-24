@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante do curso de Ciências da computação // I am a computer science student<br>⚡ Estou a procura de estágio // I'm looking for an internship
+🔭 Estudante do curso de Ciências da computação // I am a computer science student<br>
 
 
 ## 🌐 Socials:
